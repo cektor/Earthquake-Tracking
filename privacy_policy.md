@@ -334,8 +334,8 @@ If we make material changes to this Privacy Policy, we will update the "Last Upd
 If you have any questions or concerns about this Privacy Policy or the App's data practices, please contact:
 
 **Developer:** ALG Software
-**Email:** *(provide your contact email here)*
-**GitHub:** *(provide your repository URL here)*
+**Email:** *info@algsoft.net.tr*
+**GitHub:** *https://github.com/cektor/Earthquake-Tracking*
 
 ---
 
