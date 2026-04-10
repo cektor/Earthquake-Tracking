@@ -1,8 +1,8 @@
 # Privacy Policy — Deprem (Earthquake Monitor)
 
 **Package ID:** `com.alg.deprem`
-**Last Updated:** June 2025
-**Effective Date:** June 2025
+**Last Updated:** April 2026
+**Effective Date:** April 2026
 
 ---
 
